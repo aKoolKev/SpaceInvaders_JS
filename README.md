@@ -18,4 +18,4 @@ A Star Wars themed Space Invaders game implemented using HTML, JavaScript, and C
 
 ## Instruction
 
-Visit url: ``
+Visit url: `akoolkev.github.io/SpaceInvaders_JS/`
